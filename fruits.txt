@@ -4,3 +4,6 @@ Pinapple
 Dragan Fruit
 grape
 Guava
+Banana
+Mango
+
