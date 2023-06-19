@@ -3,3 +3,5 @@ Orange
 Pinapple
 Dragan Fruit
 grape
+Banana
+Mango
